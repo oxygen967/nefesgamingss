@@ -1,0 +1,88 @@
+{
+    "bot": {
+        "owner": "900073273755304059",
+        "prefix": ".",
+        "BotStatus": "Nefes Gaming Freeroam",
+        "BotFooter": "Mta:SA",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "919964028888051742,674594328663949345",
+            "log": "BAN LOG ID",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "919964028888051742,674594328663949345",
+            "roles": "977902656897024071",
+            "log": "CEZA LOG ID",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "919964028888051742,674594328663949345",
+            "roles": "977902656897024071",
+            "log": "MUTE LOG ID",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "955495998644420708,955495990473941015",
+            "log": "WARN LOG ID"
+        },
+        "transport": {
+            "staff": "955495990473941015,955495998644420708"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "TAG LOG ID",
+        "rollog": "955496046736326687",
+        "messagelog": "MESAJ LOG ID",
+        "seslog": "SES LOG ID"
+    },
+    "roles": {
+        "vip": "VİP ROL ID",
+        "sponsor": "SPONSOR ROL ID",
+        "müzisyen": "MÜZİSYEN ROL ID",
+        "team": "TAGLI ROL ID"
+    },
+    "channels": {
+        "chat": "976379044763414538",
+        "voicechannel": "955496020509343744",
+        "welcomechannel": "955496046736326687",
+        "rules": "955496022770065529"
+    },
+    "registration": {
+        "unregistered": "  ",
+        "man": ["977901295446941716", "2. 977901295446941716"],
+        "woman": ["955496001970528257", "955496001970528257"],
+        "yetkilialim": "YETKİLİ ALIM ROL ID",
+        "staff": "955496004285763634",
+        "enaltyetkilirolü": "EN ALT YETKİLİ ROL ID",
+        "GuilDTag": "SUNUCU TAGINIZ",
+        "TagSymbol": ".",
+        "autonickname": " İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "ŞÜPHELİ ROL ID",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "oneman": "955496001970528257",
+        "onewoman": "955496001970528257",
+        "minage": 1, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "955495642401226823",
+        "GuilDName": "Nefes Gaming",
+        "GuildOwnerRole": ["919964028888051742"]
+    },
+    "emojis": {
+        "tada": "977903139468492840",
+        "yes": "977903039476285511",
+        "no": "977903050415046716"
+
+    }
+} 
